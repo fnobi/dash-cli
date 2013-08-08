@@ -1,12 +1,11 @@
 {
   "name": "dash-cli",
   "description": "Dash CUI client.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
-  "scripts": {
-    "test": "mocha"
+  "bin": {
+    "dash": "bin/dash"
   },
-  "bin": "bin/dash",
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
