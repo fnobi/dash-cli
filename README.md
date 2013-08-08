@@ -12,7 +12,6 @@ npm -g intall dash-cli
 ```
 # search "forEach" with Dash
 dash forEach
-```
 
 # search "forEach" on javascript with Dash
 dash forEach --javascript
