@@ -5,7 +5,7 @@ Dash CUI client.
 
 ## install
 ```
-npm -g intall dash-cli
+npm -g install dash-cli
 ```
 
 ## usage
